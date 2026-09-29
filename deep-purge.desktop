@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DeepPurge
+Comment=Scan, inventory, and completely excise apps and residue
+Exec=python3 ~/.local/bin/deep-purge/deep-purge.py
+Icon=edit-delete
+Terminal=false
+Type=Application
+Categories=System;Utility;
